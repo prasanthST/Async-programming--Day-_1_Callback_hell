@@ -1,0 +1,19 @@
+body{
+ 
+        font-family: "New Amsterdam", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+
+      
+}
+#display{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    margin-top: 9%;
+    padding: 50px;
+    border: 1px solid black;
+}
+#count{
+    padding: 40px;
+}
